@@ -1,0 +1,3 @@
+[submodule "marnav/marnav"]
+	path = marnav/marnav
+	url = https://github.com/mariokonrad/marnav.git
